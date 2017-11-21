@@ -5,25 +5,25 @@
  */
 
 {
-	"sEmptyTable":     "Tewali ekyokulaga mu mmeza eno",
-	"sInfo":           "Walaga _START_ kudda ku _END_ mu bintu _TOTAL_ nga wagatte",
-	"sInfoEmpty":      "Walaga 0 kudda ku 0 mu bintu 0 nga wagatte",
-	"sInfoFiltered":   "(Nsengejje mu _MAX_ nga ngatte)",
+	"sEmptyTable":     "Muno temuli kyakukulaga",
+	"sInfo":           "Walaga _START_ okutuusa ku _END_ mu bugatte _TOTAL_",
+	"sInfoEmpty":      "Walaga 0 okutuusa ku 0 mu bugatte 0",
+	"sInfoFiltered":   "(Zisengejjedwa mu _MAX_ mu bugatte)",
 	"sInfoPostFix":    "",
 	"sInfoThousands":  ",",
 	"sLengthMenu":     "Laga ebintu _MENU_",
 	"sLoadingRecords": "Kyezimba...",
-	"sProcessing":     "Processing...",
-	"sSearch":         "Nnonya:",
-	"sZeroRecords":    "Tewali ebivudemu mu kunnonya",
+	"sProcessing":     "Ekyabala...",
+	"sSearch":         "Nnonyereza:",
+	"sZeroRecords":    "Tewali bivudemu mu kunnonyereza",
 	"oPaginate": {
 		"sFirst":    "Awakulembera",
 		"sLast":     "Awasembayo",
 		"sNext":     "Awaddako",
-		"sPrevious": "Awasooka wano"
+		"sPrevious": "Awakulembera wano"
 	},
 	"oAria": {
-		"sSortAscending":  ": Nyiga okutegeka kuva ku ekisinga obutono kudda ku ekisinga obunene",
-		"sSortDescending": ": Nyiga okutegeka kuva ku ekisinga obunene kudda ku ekisinga obutono"
+		"sSortAscending":  ": Nyiga okutegeka kuva ku kisinga obutono kudda ku kisinga obunene",
+		"sSortDescending": ": Nyiga okutegeka kuva ku kisinga obunene kudda ku kisinga obutono"
 	}
 }
